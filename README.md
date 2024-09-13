@@ -1,3 +1,13 @@
+
+
+#Nombre	Alias	Ubicacion
+# Juan A. Piñango	Alfa	Venezuela
+# Abraham Malave	Bravo	Venezuela
+# Nesyabel Moreno	Charlie	Venezuela
+# Juan C. Fernandez	Delta	Venezuela
+
+
+
 # Para Delta 
  1. (Delta) debe crear el repositorio "hg_1_delta" más el archivo README.md
  
